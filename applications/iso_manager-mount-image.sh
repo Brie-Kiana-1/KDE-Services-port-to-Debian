@@ -58,7 +58,7 @@ if [ "$MOUNTEXIT" = "0" ]; then
         kdialog --icon=ks-media-optical-mount --title="Mount ISO-9660 Image" --passivepopup="[Finished] ${1##*/} mounted."
 else
         kdialog --icon=ks-error --title="Mount ISO-9660 Image" \
-                --passivepopup="[Error] Can't mount ${1##*/}: Already mount or check image integrity."
+                --passivepopup="[Error] Can't mount ${1##*/}: Already mounted or check image integrity."
         exit 1
 fi
 
