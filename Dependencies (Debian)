@@ -1,0 +1,66 @@
+- android-tools           # sdkmanager for Debian
+- bash
+- bc
+- bzip2
+- cifs-utils
+- coreutils
+- diffutils
+- dmidecode
+- dvdauthor
+- festival
+- ffmpeg
+- file
+- findutils
+- fuse
+- fuseiso
+- fuse-encfs             # encfs for Debian
+- fuse-sshfs             # sshfs for Debian
+- gawk
+- genisoimage
+- ghostscript
+- gnupg
+- htop
+- ImageMagick            #
+- iproute                # iproute2 for Debian
+- isomd5sum
+- kde-baseapps
+- kde-runtime            #
+- kernel-tools           #
+- konsole
+- libcdio                #
+- liberation-sans-fonts  # fonts-liberation2 for Debian
+- lynx
+- mailx                  # virtual package. mailutils or bsd-mailx cover functionality in Debian
+- mc
+- megatools
+- mkvtoolnix
+- mlocate                # plocate for Debian
+- mp3gain
+- net-tools
+- openssh-askpass        # ksshaskpass for Debian
+- pdftk
+- perl
+- perl-Image-ExifTool    
+- poppler                # poppler-utils covers functionality
+- poppler-utils
+- procps
+- psmisc
+- pv
+- recode
+- samba-client
+- sed
+- shared-mime-info
+- sox
+- tar
+- transcode              # ffmpeg
+- unar
+- util-linux
+- vlc
+- wget
+- wodim
+- xdg-utils
+- xorg-x11-server-utils  #
+- xorg-x11-server-Xorg   # 
+- xterm
+- youtube-dl             # yt-dlp for Debian 
+- zip
